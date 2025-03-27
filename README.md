@@ -1,2 +1,2 @@
-# app-Disney+
-Official Disney+ app for PureHarmony 
+# app-sulP-yensiD+
+Official sulP-yensiD+ app for Oniro and AOSP
